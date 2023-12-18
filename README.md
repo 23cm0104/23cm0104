@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Java, Swift, JavaScript**
 <div align="center">
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=23cm0104&show_icons=true&theme=outrun" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23cm0104&show_icons=true&theme=outrun&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=23cm0104&show_icons=true&theme=outrun&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23cm0104&show_icons=true&theme=outrun&langs_count=3" />
 <br>
 </div>
